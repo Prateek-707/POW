@@ -1,0 +1,5 @@
+l298 6 to A0
+l298 7 to A1
+nrf 10 to 7
+servo A0 to 6
+servo A1 to 10
